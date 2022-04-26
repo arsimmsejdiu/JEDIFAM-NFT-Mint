@@ -36,6 +36,7 @@ function NFTDropPage() {
             Sign In
           </button>
         </header>
+        <hr className='my-2 border'/>
         {/* Content Section */}
         {/* Mint Button Section */}
       </div>
