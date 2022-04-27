@@ -13,7 +13,6 @@ function NFTDropPage() {
       <div className="col-span-6 flex flex-1 flex-col p-12">
         {/* Header */}
         <Header />
-        <hr className="my-2 border" />
         {/* Content Section */}
         <Content />
         {/* Mint Button Section */}
